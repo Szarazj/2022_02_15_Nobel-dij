@@ -16,5 +16,10 @@ namespace _2022_02_15_Nobel_dij
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

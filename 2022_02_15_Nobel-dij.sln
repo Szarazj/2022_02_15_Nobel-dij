@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2022_02_15_Nobel-dij", "2022_02_15_Nobel-dij\2022_02_15_Nobel-dij.csproj", "{66A607E9-D076-4888-B9EF-E4E093C9739C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrvosiNobeldijasokGUI", "2022_02_15_Nobel-dij\OrvosiNobeldijasokGUI.csproj", "{66A607E9-D076-4888-B9EF-E4E093C9739C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
