@@ -112,6 +112,7 @@ namespace _2022_02_15_Nobel_dij
             this.button1.TabIndex = 8;
             this.button1.Text = "Adatok mentése";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -129,7 +130,6 @@ namespace _2022_02_15_Nobel_dij
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = " Orvosi Nobel-díjasok";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
